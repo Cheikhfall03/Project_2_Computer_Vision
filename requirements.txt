@@ -1,3 +1,4 @@
+# requirements.txt
 opencv-python-headless>=4.5.0
 numpy==1.23.5
 ultralytics>=8.0.0
@@ -11,6 +12,6 @@ torch==1.13.1
 torchvision==0.14.1
 scikit-image>=0.19.0
 filterpy>=1.4.5
-pygame>=2.6.0
+pygame==2.5.2
 motmetrics>=1.2.0
-setuptools<81
+setuptools==80.0.0
