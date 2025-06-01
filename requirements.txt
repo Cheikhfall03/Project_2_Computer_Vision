@@ -1,8 +1,10 @@
-matplotlib
+opencv-python-headless>=4.5.0
+numpy==1.23.5
+ultralytics>=8.0.0
+matplotlib>=3.5.0
 scikit-learn
 pandas
 seaborn
 Pillow
-numpy==1.23.5
-opencv-python-headless==4.8.0.76 
-ultralytics>=8.0.0
+streamlit
+torch>=1.10.0  # Add explicit torch requirement
