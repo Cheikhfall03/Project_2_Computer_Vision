@@ -10,6 +10,10 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 import seaborn as sns
 from PIL import Image
+import os
+os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'  # Hide welcome message
+os.environ['SDL_AUDIODRIVER'] = 'dummy'  # Disable audio
+pygame.mixer.quit()  # Ensure mixer is off
 
 def euclidean_distances(a, b, max_d=np.inf):
     """Calcule les distances euclidiennes entre deux ensembles de points"""
