@@ -1,0 +1,15 @@
+numpy 
+tensorflow
+torch
+opencv-python
+transformers
+matplotlib
+scikit-learn
+torchvision
+pandas
+seaborn
+Pillow
+flask
+numpy==1.23.5
+streamlit
+tensorflow==2.12.0
