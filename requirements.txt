@@ -7,4 +7,4 @@ pandas
 seaborn
 Pillow
 streamlit
-torch>=1.10.0  # Add explicit torch requirement
+torch>=1.10.0
