@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['LicensePlate']
+
+roboflow:
+  workspace: snu-i6ovv
+  project: license-plate-detector-ogxxg
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/snu-i6ovv/license-plate-detector-ogxxg/dataset/2
