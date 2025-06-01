@@ -1,15 +1,7 @@
-numpy 
-tensorflow
-torch
-opencv-python
-transformers
 matplotlib
 scikit-learn
-torchvision
 pandas
 seaborn
 Pillow
-flask
 numpy==1.23.5
-streamlit
-tensorflow==2.12.0
+opencv-python-headless==4.8.0.76 
