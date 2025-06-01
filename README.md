@@ -22,3 +22,6 @@ Affichage en direct des métriques d’évaluation (MOT).
 Visualisation des logs de détection.
 
 Génération automatique d’une carte de chaleur des zones détectées.
+
+# Lien du site
+https://project2computervision.streamlit.app/
