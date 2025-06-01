@@ -52,7 +52,7 @@ class Detector:
         pygame.init()
         pygame.mixer.init()
         try:
-            self.alert_sound = pygame.mixer.Sound("/home/students-asn33/Téléchargements/Licence_Plate_CV/alert.mp3")
+            self.alert_sound = pygame.mixer.Sound("alert.mp3")
         except:
             print("⚠️ Fichier audio non trouvé - alerte désactivée")
             self.alert_sound = None
