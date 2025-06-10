@@ -15,3 +15,8 @@ pygame==2.5.2
 motmetrics>=1.2.0
 setuptools==80.0.0
 lap>=0.4.0
+libgl1-mesa-glx
+libglib2.0-0
+libsm6
+libxext6
+libxrender-dev
