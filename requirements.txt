@@ -1,5 +1,5 @@
 streamlit>=1.29.0
-opencv-python-headless
+opencv-python
 numpy==1.23.5
 ultralytics>=8.0.0
 matplotlib>=3.5.0
@@ -15,8 +15,3 @@ pygame==2.5.2
 motmetrics>=1.2.0
 setuptools==80.0.0
 lap>=0.4.0
-libgl1-mesa-glx
-libglib2.0-0
-libsm6
-libxext6
-libxrender-dev
